@@ -1,0 +1,44 @@
+Daily Diary – Day 1: Introduction to HTML
+
+📅 Date: [20 June 2025]
+📖 Topic: Introduction to HTML
+🕒 Duration Studied: [2 hour]
+
+⸻
+
+✅ What I Learned Today:
+	•	HTML stands for HyperText Markup Language.
+	•	HTML is used to structure content on the web.
+	•	The basic structure of an HTML document includes:
+	•	<!DOCTYPE html> – Tells the browser this is an HTML5 document.
+	•	<html> – The root element of the HTML page.
+	•	<head> – Contains meta information like title and links to styles.
+	•	<body> – Contains the visible content of the page.
+	•	Basic HTML tags:
+	•	Heading Tags: <h1> to <h6> (used for headings, <h1> is the largest)
+	•	Paragraph Tag: <p> (used for regular text)
+	•	Line Break: <br> (used to break a line)
+	•	Horizontal Line: <hr> (used to insert a horizontal rule)
+
+⸻
+
+💻 What I Practiced:
+
+I created a simple HTML file using Notepad and saved it with a .html extension. Here’s what I included:
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First HTML Page</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my first HTML page.</p>
+  <hr>
+  <p>Learning HTML is fun!<br>I'm excited for more.</p>
+</body>
+</html>
+
+New Terms Learned:
+	•	Tag: A keyword enclosed in angle brackets, e.g., <p>.
+	•	Element: A full HTML component with opening and closing tags.
+	•	Attribute: Adds extra information to tags (e.g., title="...").
